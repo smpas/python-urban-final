@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Смирнов Павел Алексеевич
+- https://colab.research.google.com/drive/1D2zCzSE1tbRRyonv_kCFfOm_jCoPTNmz?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
